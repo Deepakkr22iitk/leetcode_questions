@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
