@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
