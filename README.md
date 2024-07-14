@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1720-crawler-log-folder) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1720-crawler-log-folder) |
