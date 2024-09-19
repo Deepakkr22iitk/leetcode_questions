@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0564-find-the-closest-palindrome) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
