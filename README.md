@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1304-longest-happy-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
