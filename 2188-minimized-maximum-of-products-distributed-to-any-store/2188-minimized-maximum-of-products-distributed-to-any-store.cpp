@@ -1,35 +1,28 @@
 class Solution {
-    bool isPossible(vector<int>& q,int n,int barrier){
-        int cnt=0;
-        for(int i=0;i<q.size();i++){
-            if(q[i]<=barrier){
-                cnt++;
-            }
-            else{
-                int temp=q[i];
-                while(temp>0){
-                    temp-=barrier;
-                    cnt++;
-                }
-            }
-            if(cnt>n) return false;
-        }
-        return true;
-    }
-    
 public:
-    int minimizedMaximum(int n, vector<int>& q) {
-        int start=1,end=*max_element(q.begin(),q.end());
+    static inline bool f(int x, vector<int>& quantities, int n){
+        int sum=0;
+        for(int a: quantities)
+            sum+=(a+x-1)/x;// ceil(a/x)
+        return sum>n;
+    }
+    static int minimizedMaximum(int n, vector<int>& quantities) {
+        int l=1, r=100000, m;
+        while(l<r){
+            m=(l+r)/2;
+            if (f(m, quantities, n)) l=m+1;
+            else r=m;
+        } 
+        return l;
         
-        int ans = INT_MAX;
-        while(start<=end){
-            int mid = start+(end-start)/2;
-            if(isPossible(q,n,mid)){
-                ans = min(ans,mid);
-                end=mid-1;
-            }
-            else start=mid+1;
-        }
-        return ans;
     }
 };
+
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
