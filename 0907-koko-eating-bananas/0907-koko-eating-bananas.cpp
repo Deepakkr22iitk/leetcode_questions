@@ -1,5 +1,9 @@
 class Solution {
-public:
+public:// here we have taken piles in sorted order, although it's not necessary and also it 
+    // won't affect our ans precedure
+
+    // here we are trying to implement BS on ans(or say minimizing the k)
+    // to finish all banana in <= h hours
     long long pred(vector<int> &piles,int least)
     {
         int n=piles.size();
@@ -10,6 +14,26 @@ public:
         }
         return ans;
     }
+//                               max(piles[i])
+//                                 o     h(given)
+//                             o   o
+//                         o   o   o
+//                     o   o   o   o
+//                 o   o   o   o   o
+//             o   o   o   o   o   o
+//         o   o   o   o   o   o   o   h(calulated)
+// k=0    inf inf inf  .   .   .   .       inf
+// k=1     1   2   3   4   5   6   7       28
+// k=2     1   1   2   2   3   3   4       16
+// .
+// .
+// k=max   1   1   1   1   1   1   1       n(length of piles)
+
+// now we have to do BS on k such that
+//     k   n    n+1   n+2   n+3   .   .   .   inf
+//   team  0     0     0     1    1   1   1    1
+// team 1 means it is feasible and can be the ans
+// we need to output the first 1
     int minEatingSpeed(vector<int>& piles, int h) {
         int n=piles.size();
         if(n==1) return (piles[0]+h-1)/h;
