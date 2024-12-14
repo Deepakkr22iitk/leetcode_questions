@@ -1,9 +1,5 @@
 class Solution {
-public:// here we have taken piles in sorted order, although it's not necessary and also it 
-    // won't affect our ans precedure
-
-    // here we are trying to implement BS on ans(or say minimizing the k)
-    // to finish all banana in <= h hours
+public:
     long long pred(vector<int> &piles,int least)
     {
         int n=piles.size();
@@ -14,6 +10,11 @@ public:// here we have taken piles in sorted order, although it's not necessary 
         }
         return ans;
     }
+// here we have taken piles in sorted order, although it's not necessary and also it 
+// won't affect our ans precedure
+
+// here we are trying to implement BS on ans(or say minimizing the k)
+// to finish all banana in <= h hours
 //                               max(piles[i])
 //                                 o     h(given)
 //                             o   o
