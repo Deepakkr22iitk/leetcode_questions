@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
