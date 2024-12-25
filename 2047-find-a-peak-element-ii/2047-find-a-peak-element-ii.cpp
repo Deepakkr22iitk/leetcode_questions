@@ -27,7 +27,7 @@ public:
         {
             int mid=low+(high-low)/2;
             int row=mxInMidCol(mat,mid);
-            int left=(mid-1)>0?mat[row][mid-1]:-1;
+            int left=(mid-1)>=0?mat[row][mid-1]:-1;
             int right=(mid+1)<n?mat[row][mid+1]:-1;
             if(left<mat[row][mid] && right<mat[row][mid])
             {
