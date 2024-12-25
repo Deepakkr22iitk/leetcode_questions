@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
