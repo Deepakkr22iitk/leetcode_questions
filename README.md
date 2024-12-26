@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
