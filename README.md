@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
