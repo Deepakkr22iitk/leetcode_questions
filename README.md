@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
