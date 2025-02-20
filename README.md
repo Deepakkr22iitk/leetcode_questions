@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
