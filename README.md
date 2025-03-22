@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0283-move-zeroes) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
+| [0213-house-robber-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
