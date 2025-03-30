@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0906-walking-robot-simulation) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0920-uncommon-words-from-two-sentences) |
