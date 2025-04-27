@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2727-number-of-senior-citizens) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -916,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
