@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0952-word-subsets) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1063-best-sightseeing-pair) |
