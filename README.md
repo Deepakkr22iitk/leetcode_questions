@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1114,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |
