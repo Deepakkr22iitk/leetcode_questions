@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0162-find-peak-element) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
