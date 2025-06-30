@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
@@ -1095,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
