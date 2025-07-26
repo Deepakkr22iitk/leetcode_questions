@@ -1,40 +1,48 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
     long long maxSubarrays(int n, std::vector<std::vector<int>>& conflictingPairs) {
-        std::vector<std::vector<int>> right(n + 1);
-        for (const auto& pair : conflictingPairs) {
-            right[std::max(pair[0], pair[1])].push_back(std::min(pair[0], pair[1]));
-        }
-
-        long long ans = 0;
-        std::vector<long long> left = {0, 0};
-        std::vector<long long> bonus(n + 1, 0);
-
-        for (int r = 1; r <= n; ++r) {
-            for (int l_val : right[r]) {
-                // Manually update top two values
-                if (l_val > left[0]) {
-                    left = {static_cast<long long>(l_val), left[0]};
-                } else if (l_val > left[1]) {
-                    left = {left[0], static_cast<long long>(l_val)};
-                }
-            }
-
-            ans += r - left[0];
-            
-            if (left[0] > 0) {
-                bonus[left[0]] += left[0] - left[1];
+        for (auto& pair : conflictingPairs) {
+            if (pair[1] < pair[0]) {
+                std::swap(pair[0], pair[1]);
             }
         }
-        
-        long long max_bonus = 0;
-        for(long long b : bonus) {
-            max_bonus = std::max(max_bonus, b);
+
+        std::sort(conflictingPairs.begin(), conflictingPairs.end(),
+                  [](const std::vector<int>& a, const std::vector<int>& b) {
+                      return a[1] < b[1];
+                  });
+
+        int m = conflictingPairs.size();
+        int max1 = 0;
+        int max2 = 0;
+        long long gain = 0;
+        long long maxGain = 0;
+        long long totalOccupied = 0;
+
+        for (int i = 0; i < m; ++i) {
+            int start = conflictingPairs[i][0];
+            int base = n + 1 - conflictingPairs[i][1];
+            if (i < m - 1) {
+                base = conflictingPairs[i + 1][1] - conflictingPairs[i][1];
+            }
+
+            if (start > max1) {
+                max2 = max1;
+                max1 = start;
+                gain = 0;
+            } else if (start > max2) {
+                max2 = start;
+            }
+
+            gain += static_cast<long long>(max1 - max2) * base;
+            totalOccupied += static_cast<long long>(max1) * base;
+
+            if (gain > maxGain) {
+                maxGain = gain;
+            }
         }
 
-        return ans + max_bonus;
+        long long total = static_cast<long long>(n) * (n + 1) / 2;
+        return total - totalOccupied + maxGain;
     }
 };
