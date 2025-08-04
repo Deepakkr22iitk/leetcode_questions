@@ -1,23 +1,71 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int, int> basket;
-        int start = 0, maxFruits = 0;
-
-        for (int end = 0; end < fruits.size(); ++end) {
-            basket[fruits[end]]++;
-
-            while (basket.size() > 2) {
-                basket[fruits[start]]--;
-                if (basket[fruits[start]] == 0) {
-                    basket.erase(fruits[start]);
-                }
-                start++;
+        int n=fruits.size();
+        int count=0;
+        int i=0,ans=0,first=0,second=0;
+        set<int> now;      
+        while(i<n)
+        {
+            if(now.size()==0)
+            {
+                first=i;
+                count++;
+                now.insert(fruits[i]);
             }
+            else if(now.size()==1)
+            {
+                if(now.find(fruits[i])==now.end())
+                {
+                    second=i;
+                    now.insert(fruits[i]);
+                    // count++;
+                }
+                count++;
+            }
+            else
+            {
+                if(now.find(fruits[i])==now.end())
+                {
+                    ans=max(ans,count);
+                    if(first>second)
+                    {
+                        now.erase(fruits[second]);
+                        count=(i-first);
+                        second=i;
+                    }
+                    else
+                    {
+                        now.erase(fruits[first]);
+                        count=(i-second);
+                        first=second;
+                        second=i;
+                    }
+                    now.insert(fruits[i]);
+                    count++;
+                }
+                else 
+                {
+                    if(fruits[i]==fruits[first] && fruits[i-1]==fruits[second])
+                    {
+                        first=i;
+                    }
+                    else if(fruits[i]==fruits[second]&& fruits[i-1]==fruits[first])
+                    {
+                        second=i;
+                    }
 
-            maxFruits = max(maxFruits, end - start + 1);
+                    count++;
+                }
+            }
+            i++;
         }
-
-        return maxFruits;
+        ans=max(ans,count);
+        for(auto &it:now)
+        {
+            cout<<it<<" ";
+        }
+        cout<<first<<" "<<second<<" ";
+        return ans;
     }
 };
