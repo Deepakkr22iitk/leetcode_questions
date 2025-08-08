@@ -767,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1412,4 +1414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
