@@ -4,7 +4,6 @@ public:
         int m=matrix.size();
         int n=matrix[0].size();
         vector<vector<int>>dp(m+1,vector<int>(n+1));
-        int mx=min(m,n);
 
         for(int i=1;i<=m;++i)
         {
@@ -15,6 +14,7 @@ public:
         }
 
         int ans=0;
+        int mx=min(m,n);
         for(int i=1;i<=m;++i)
         {
             for(int j=1;j<=n;++j)
