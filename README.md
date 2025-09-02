@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
