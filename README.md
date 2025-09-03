@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1449,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1480,4 +1484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
