@@ -18,7 +18,4 @@ public:
         }
         return ans;
     }
-    // int numberOfPairs(vector<vector<int>>& points) {
-        
-    // }
 };
