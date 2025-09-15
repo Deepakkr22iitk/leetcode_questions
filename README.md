@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1197-parsing-a-boolean-expression) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1304-longest-happy-string) |
