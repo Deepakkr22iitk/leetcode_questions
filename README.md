@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -1323,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 ## Binary Search Tree
 |  |
 | ------- |
