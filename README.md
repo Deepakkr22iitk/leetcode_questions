@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
