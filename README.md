@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
