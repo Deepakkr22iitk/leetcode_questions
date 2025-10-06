@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0921-spiral-matrix-iii) |
@@ -1105,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1304-longest-happy-string) |
@@ -1265,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0945-snakes-and-ladders) |
@@ -1333,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
