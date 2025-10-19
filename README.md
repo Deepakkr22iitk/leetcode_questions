@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1574,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
