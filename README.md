@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0273-integer-to-english-words) |
+| [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0567-permutation-in-string) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
