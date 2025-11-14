@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2472-build-a-matrix-with-conditions) |
+| [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
