@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1063-best-sightseeing-pair) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
