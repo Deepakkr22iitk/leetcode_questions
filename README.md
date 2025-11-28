@@ -1041,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
