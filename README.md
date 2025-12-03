@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -1729,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Bitmask
 |  |
 | ------- |
