@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
@@ -1032,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
 |  |
 | ------- |
@@ -1380,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
 |  |
@@ -1472,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Union Find
 |  |
 | ------- |
@@ -1580,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -1705,6 +1710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2868-continuous-subarrays) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Eulerian Circuit
 |  |
 | ------- |
