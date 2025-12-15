@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -982,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1375,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
