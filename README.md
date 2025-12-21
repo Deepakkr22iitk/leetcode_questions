@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1006-vowel-spellchecker) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1304-longest-happy-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1304-longest-happy-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1448-maximum-69-number) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
