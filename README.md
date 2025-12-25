@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
