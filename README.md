@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2502-sort-the-people) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1614,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
