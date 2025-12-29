@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
+| [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0476-number-complement) |
+| [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1435-xor-queries-of-a-subarray) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
+| [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0679-24-game) |
+| [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
