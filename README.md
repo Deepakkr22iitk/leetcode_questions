@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2047-find-a-peak-element-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1199,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1471,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1876-map-of-highest-peak) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1541,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
