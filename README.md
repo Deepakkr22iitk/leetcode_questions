@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1025-minimum-cost-for-tickets) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
