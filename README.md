@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
+| [1284-four-divisors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1284-four-divisors) |
 | [1325-path-with-maximum-probability](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
+| [1284-four-divisors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
