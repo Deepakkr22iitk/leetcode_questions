@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1406,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
