@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0906-walking-robot-simulation) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1478,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0854-making-a-large-island) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
