@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1382,6 +1385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0213-house-robber-ii) |
@@ -1763,6 +1767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
