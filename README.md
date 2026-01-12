@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1284-four-divisors) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1832,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
