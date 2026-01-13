@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3763-separate-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3763-separate-squares-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
