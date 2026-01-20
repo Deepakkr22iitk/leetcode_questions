@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
