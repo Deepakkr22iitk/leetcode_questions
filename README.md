@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
@@ -1732,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
