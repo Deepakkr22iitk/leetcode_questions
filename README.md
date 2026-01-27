@@ -1366,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1512,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1890,4 +1892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
