@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
@@ -1275,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Graph
 |  |
 | ------- |
@@ -1501,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Shortest Path
 |  |
