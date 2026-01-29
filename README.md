@@ -1898,5 +1898,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
