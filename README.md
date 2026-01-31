@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0787-sliding-puzzle) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0907-koko-eating-bananas) |
