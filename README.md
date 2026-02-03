@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
+| [3952-trionic-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3952-trionic-array-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
