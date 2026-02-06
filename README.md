@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1620,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
+| [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Union Find
 |  |
