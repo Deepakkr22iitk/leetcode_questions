@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1304-longest-happy-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1448-maximum-69-number) |
@@ -1151,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
@@ -1213,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -1668,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
