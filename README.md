@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
+| [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -1446,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3885-count-special-triplets) |
+| [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1881,6 +1884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 ## Monotonic Queue
 |  |
 | ------- |
