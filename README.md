@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0921-spiral-matrix-iii) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
