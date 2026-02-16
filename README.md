@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0476-number-complement) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
