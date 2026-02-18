@@ -705,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
