@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-special-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0763-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
+| [0763-special-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0763-special-binary-string) |
 | [0768-partition-labels](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
@@ -1359,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0190-reverse-bits) |
 | [0218-the-skyline-problem](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0763-special-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0763-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0954-maximum-sum-circular-subarray) |
