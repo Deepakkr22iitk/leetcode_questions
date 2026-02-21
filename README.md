@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0757-pyramid-transition-matrix) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1435-xor-queries-of-a-subarray) |
@@ -1055,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0679-24-game) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
