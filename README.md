@@ -1170,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
