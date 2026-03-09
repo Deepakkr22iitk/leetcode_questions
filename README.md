@@ -1556,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1776,6 +1777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3427-special-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
