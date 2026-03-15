@@ -1094,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1642-water-bottles) |
+| [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1713,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
@@ -1876,6 +1878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0731-my-calendar-ii) |
+| [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
