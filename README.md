@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1343,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1796,6 +1798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3427-special-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3427-special-array-ii) |
