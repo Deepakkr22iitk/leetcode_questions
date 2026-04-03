@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3973-flip-square-submatrix-vertically) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1626,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Shortest Path
 |  |
 | ------- |
