@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1771,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2178-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
