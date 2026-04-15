@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2625-increment-submatrices-by-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2625-increment-submatrices-by-one) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2502-sort-the-people) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
