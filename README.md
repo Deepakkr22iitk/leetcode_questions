@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3750-closest-equal-element-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3763-separate-squares-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
+| [3750-closest-equal-element-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3643-zero-array-transformation-ii) |
+| [3750-closest-equal-element-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
