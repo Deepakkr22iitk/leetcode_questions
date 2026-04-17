@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4056-longest-balanced-substring-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4056-longest-balanced-substring-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1202,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
