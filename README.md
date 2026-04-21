@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1328,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
@@ -2089,6 +2091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
