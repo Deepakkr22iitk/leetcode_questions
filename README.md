@@ -1140,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0867-new-21-game) |
@@ -1600,6 +1601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0804-rotated-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0867-new-21-game) |
