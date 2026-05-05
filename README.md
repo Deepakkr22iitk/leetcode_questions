@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0189-rotate-array) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
