@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3981-jump-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -1680,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
+| [3981-jump-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Shortest Path
 |  |
