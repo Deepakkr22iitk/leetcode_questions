@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1803-average-waiting-time](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1887,6 +1889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1694-make-sum-divisible-by-p) |
+| [1793-minimum-moves-to-make-array-complementary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
