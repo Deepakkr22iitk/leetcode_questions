@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1428-jump-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
+| [1428-jump-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1428-jump-game-iii) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1558-course-schedule-iv) |
@@ -1732,6 +1734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1428-jump-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1663-detect-cycles-in-2d-grid) |
