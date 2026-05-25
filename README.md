@@ -1035,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1923-sentence-similarity-iii) |
+| [2001-jump-game-vii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1663,6 +1664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2001-jump-game-vii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1790,6 +1792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1813-maximum-erasure-value) |
+| [2001-jump-game-vii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1911,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2001-jump-game-vii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
