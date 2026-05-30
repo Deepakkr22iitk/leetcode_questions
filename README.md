@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3470-maximum-score-from-grid-operations) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3427-special-array-ii) |
+| [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1788,6 +1790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2041,6 +2044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
