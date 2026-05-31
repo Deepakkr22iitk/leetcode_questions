@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2262-solving-questions-with-brainpower) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2245-destroying-asteroids](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2245-destroying-asteroids) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2245-destroying-asteroids) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
