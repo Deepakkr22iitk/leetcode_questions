@@ -1276,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4168-mirror-distance-of-an-integer) |
 ## Recursion
@@ -1741,6 +1742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3981-jump-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 ## Shortest Path
 |  |
 | ------- |
