@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1968-maximum-building-height) |
 | [1972-rotating-the-box](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
