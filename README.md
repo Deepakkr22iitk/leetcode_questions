@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2892-check-if-array-is-good) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3031-construct-product-matrix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3427-special-array-ii) |
@@ -1518,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1625,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2868-continuous-subarrays) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1854,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -2256,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
