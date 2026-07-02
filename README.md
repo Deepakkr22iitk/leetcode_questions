@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -1528,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1816,6 +1819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
@@ -1861,6 +1865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
@@ -2253,6 +2258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
