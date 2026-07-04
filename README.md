@@ -1458,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1863,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -2262,6 +2264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -2273,6 +2276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
