@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1207-delete-nodes-and-return-forest) |
+| [1222-remove-covered-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1284-four-divisors) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0948-sort-an-array) |
+| [1222-remove-covered-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1333-sort-the-jumbled-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
