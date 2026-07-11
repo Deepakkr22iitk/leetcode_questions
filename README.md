@@ -2284,6 +2284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -2299,6 +2300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
+| [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
