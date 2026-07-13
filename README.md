@@ -2211,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
+| [1212-sequential-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1212-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
