@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -1727,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -2075,6 +2080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3470-maximum-score-from-grid-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2110,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -2267,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
