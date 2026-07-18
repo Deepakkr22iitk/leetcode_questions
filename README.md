@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -2110,6 +2112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2610-closest-prime-numbers-in-range) |
