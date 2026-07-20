@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1364-tuple-with-same-product) |
+| [1386-shift-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0921-spiral-matrix-iii) |
+| [1386-shift-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1386-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -1529,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1234-number-of-paths-with-max-score](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1311-largest-magic-square) |
+| [1386-shift-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
