@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1360,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3859-maximum-product-of-two-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3897-count-number-of-trapezoids-ii) |
