@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
