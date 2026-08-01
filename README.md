@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0503-next-greater-element-ii) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1397,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1791,6 +1794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -2141,6 +2145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
