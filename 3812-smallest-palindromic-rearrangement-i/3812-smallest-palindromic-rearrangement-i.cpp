@@ -1,39 +1,46 @@
 class Solution {
 public:
-    string reverse(string t,int s,int e)
+    string mirror(string s)
     {
-        while(s<e)
+        int m=s.size();
+        int i=0,j=m-1;
+        while(i<j)
         {
-            swap(t[s],t[e]);
-            s++;
-            e--;
+            swap(s[i],s[j]);
+            i++;
+            j--;
         }
-        return t;
+        return s;
     }
     string smallestPalindrome(string s) {
         int n=s.size();
-        if(n<3) return s;
+        if(n<4) return s;
+
+        string start="";
+        string middle="";
+
         sort(s.begin(),s.end());
-        string ans="";
-        int ind=-1;
+
         for(int i=0;i<n;i+=2)
         {
-            if(s[i]==s[i+1]) ans+=s[i];
+            if(s[i]==s[i+1])start+=s[i]; 
             else 
             {
-                ind=i;
+                middle+=s[i];
                 i--;
             }
         }
 
-        if(ind==-1) ans+=reverse(ans,0,ans.size()-1);
-        else 
-        {
-            string res=reverse(ans,0,ans.size()-1);
-            ans+=s[ind];
-            ans+=res;
-        }
+        string ans="";
+        // if(n%2==0)
+        // {
+        //     ans+=start;
+        //     ans+=mirror(start);
+        // }
 
+        ans+=start;
+        if(n%2==1) ans+=middle;
+        ans+=mirror(start);
         return ans;
     }
 };
