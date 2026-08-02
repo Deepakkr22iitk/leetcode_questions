@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1294,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1804,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1025-minimum-cost-for-tickets) |
@@ -2146,6 +2149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
