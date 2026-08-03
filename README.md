@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1500-count-largest-group) |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1822,6 +1824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1466-jump-game-v) |
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2151,6 +2154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2384,4 +2388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
