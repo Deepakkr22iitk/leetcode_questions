@@ -990,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1367,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -2087,6 +2090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -2174,6 +2178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3995-gcd-of-odd-and-even-sums) |
