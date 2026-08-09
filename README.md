@@ -2404,9 +2404,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
