@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
@@ -919,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
@@ -1800,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
