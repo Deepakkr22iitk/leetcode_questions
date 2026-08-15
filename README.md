@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
