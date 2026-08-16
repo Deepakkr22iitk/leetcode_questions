@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -1778,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -2184,6 +2188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2428,16 +2433,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
