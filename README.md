@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1487-cinema-seat-allocation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1487-cinema-seat-allocation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1487-cinema-seat-allocation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1487-cinema-seat-allocation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1487-cinema-seat-allocation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1612-avoid-flood-in-the-city) |
