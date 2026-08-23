@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2039-sum-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2039-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1171,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2039-sum-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2039-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2039-sum-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
@@ -2201,6 +2204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
+| [2039-sum-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
