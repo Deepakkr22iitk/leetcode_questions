@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4056-longest-balanced-substring-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4056-longest-balanced-substring-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
