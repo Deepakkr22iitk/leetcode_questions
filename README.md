@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3973-flip-square-submatrix-vertically) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -1262,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3939-process-string-with-special-operations-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4056-longest-balanced-substring-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -2362,6 +2364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
