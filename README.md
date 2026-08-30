@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2156-stone-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2156-stone-game-ix) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2245-destroying-asteroids) |
