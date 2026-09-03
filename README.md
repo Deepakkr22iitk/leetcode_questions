@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4168-mirror-distance-of-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
