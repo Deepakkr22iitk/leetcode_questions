@@ -27,27 +27,27 @@ public:
         vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
         return f_memo(n, m, s, t, dp);
 
-        // vector<vector<long long>> dp(n + 1, vector<long long>(m + 1, 0));
-        // for(int i = 0; i <= m; i++) dp[i][0] = 1;
+        // // the next two solutions are not working [ERROR : signed integer overflow]
 
-        // for(int i = 1; i <= n; i++){
-        //     for(int j = 1; j <= m; j++){
-        //         if(s[i - 1] == t[j - 1]) dp[i][j] = dp[i - 1][j] 
-        //             + dp[i - 1][j - 1];
+        // vector<vector<__int128>> dp(n+1,vector<__int128>(m+1,0));
+        // for(int i=0;i<=n;i++) dp[i][0]=1;
 
-        //         else dp[i][j] = dp[i - 1][j];
+        // for(int i=1;i<=n;i++){
+        //     for(int j=1;j<=m;j++){
+        //         if(s[i-1]==t[j-1]) dp[i][j]=(dp[i-1][j]+dp[i-1][j-1]);
+
+        //         else dp[i][j]=dp[i-1][j];
         //     }
         // }
 
-        // return dp[n][m];
+        // return (int)dp[n][m];
 
         // vector<long long> prev(m + 1, 0), curr(m + 1, 0);
-        // prev[0] = curr[0] = 1;
+        // prev[0]=1; curr[0]=1;
 
         // for(int i = 1; i <= n; i++){
         //     for(int j = 1; j <= m; j++){
-        //         if(s[i - 1] == t[j - 1]) curr[j] = prev[j] 
-        //             + prev[j - 1];
+        //         if(s[i - 1] == t[j - 1]) curr[j] = prev[j] + prev[j - 1];
 
         //         else curr[j] = prev[j];
         //     }
