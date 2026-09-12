@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1940,6 +1943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3470-maximum-score-from-grid-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3470-maximum-score-from-grid-operations) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
