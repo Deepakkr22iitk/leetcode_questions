@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2509-minimize-xor) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2502-sort-the-people) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1928,6 +1931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2554-minimum-total-distance-traveled) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2708-find-the-string-with-lcp](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2708-find-the-string-with-lcp) |
