@@ -1369,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1500-count-largest-group) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1617-stone-game-iv](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1617-stone-game-iv) |
@@ -2455,6 +2456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0866-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3886-count-number-of-trapezoids-i) |
