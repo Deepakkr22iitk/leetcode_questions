@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0410-split-array-largest-sum) |
@@ -1879,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0264-ugly-number-ii) |
