@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -1452,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3830-find-closest-person) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1977,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
