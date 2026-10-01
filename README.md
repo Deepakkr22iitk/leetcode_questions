@@ -1144,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -1316,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -2572,6 +2574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
