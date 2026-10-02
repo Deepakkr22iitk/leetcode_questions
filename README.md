@@ -1145,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0115-distinct-subsequences) |
@@ -1900,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -2191,6 +2193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0040-combination-sum-ii) |
@@ -2575,6 +2578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
