@@ -1147,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0165-compare-version-numbers) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -1902,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -2579,6 +2582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
