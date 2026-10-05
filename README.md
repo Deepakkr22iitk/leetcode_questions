@@ -1173,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1331,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1078-remove-outermost-parentheses) |
@@ -2588,6 +2590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
