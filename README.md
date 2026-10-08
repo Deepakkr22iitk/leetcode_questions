@@ -2592,6 +2592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
