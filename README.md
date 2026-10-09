@@ -1003,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1206,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -2594,6 +2597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
