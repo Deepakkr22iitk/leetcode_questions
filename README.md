@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4005-maximum-total-subarray-value-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -1509,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
