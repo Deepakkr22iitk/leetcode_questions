@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -2120,6 +2122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0218-the-skyline-problem) |
 | [1511-count-number-of-teams](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 ## Sliding Window
@@ -2405,6 +2408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-fancy-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
