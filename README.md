@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-find-x-value-of-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3840-find-x-value-of-array-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3859-maximum-product-of-two-digits) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
