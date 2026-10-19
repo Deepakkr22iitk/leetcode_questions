@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2213-find-all-people-with-secret](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2245-destroying-asteroids) |
