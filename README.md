@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4285-smallest-stable-index-ii) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4257-sum-of-sortable-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4257-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1530,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4245-count-commas-in-range](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
@@ -2496,6 +2499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4257-sum-of-sortable-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4257-sum-of-sortable-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
