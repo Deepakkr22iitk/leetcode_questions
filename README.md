@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
