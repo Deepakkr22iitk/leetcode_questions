@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3952-trionic-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
+| [3950-maximum-k-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
