@@ -1279,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2496-count-days-spent-together](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2496-count-days-spent-together) |
 | [2502-sort-the-people](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2502-sort-the-people) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1464,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
+| [2496-count-days-spent-together](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2496-count-days-spent-together) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2649-count-total-number-of-colored-cells) |
