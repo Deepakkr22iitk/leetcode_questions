@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1386-shift-2d-grid) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1395-minimum-time-visiting-all-points) |
@@ -1654,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1428-jump-game-iii) |
@@ -1713,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1234-number-of-paths-with-max-score](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1311-largest-magic-square) |
+| [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1386-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -2097,6 +2100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -2580,6 +2584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
