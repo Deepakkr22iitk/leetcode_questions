@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3827-implement-router) |
 | [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
@@ -1687,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-remove-methods-from-project](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1763,6 +1765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3797-design-spreadsheet) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -2133,6 +2136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-remove-methods-from-project](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
@@ -2592,6 +2596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3983-minimum-operations-to-equalize-binary-string) |
