@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3973-flip-square-submatrix-vertically) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -2072,6 +2075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
