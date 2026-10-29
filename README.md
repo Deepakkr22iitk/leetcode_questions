@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4256-construct-uniform-parity-array-i) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4056-longest-balanced-substring-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
 ## Stack
 |  |
@@ -1608,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1695,6 +1699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -1833,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -2154,6 +2160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3435-block-placement-queries) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2450,6 +2457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
