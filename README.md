@@ -1354,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4056-longest-balanced-substring-ii) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4209-palindromic-path-queries-in-a-tree](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4216-weighted-word-mapping](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4216-weighted-word-mapping) |
@@ -1891,6 +1892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -2097,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2596,6 +2599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
