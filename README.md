@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3934-coupon-code-validator) |
+| [3938-twisted-mirror-path-count](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3952-trionic-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
@@ -1777,6 +1778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-equal-sum-grid-partition-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3938-twisted-mirror-path-count](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3938-twisted-mirror-path-count) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3973-flip-square-submatrix-vertically) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Graph
@@ -2076,6 +2078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3919-network-recovery-pathways](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3919-network-recovery-pathways) |
+| [3938-twisted-mirror-path-count](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3938-twisted-mirror-path-count) |
 | [3956-trionic-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3964-number-of-zigzag-arrays-ii) |
