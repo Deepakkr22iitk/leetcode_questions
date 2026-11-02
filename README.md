@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1417,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0564-find-the-closest-palindrome) |
