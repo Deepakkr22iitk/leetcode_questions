@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4184-minimum-operations-to-sort-a-permutation) |
@@ -1542,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
