@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3750-closest-equal-element-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1517,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1895,6 +1898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
@@ -2075,6 +2079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -2216,6 +2221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3958-minimum-removals-to-balance-array) |
