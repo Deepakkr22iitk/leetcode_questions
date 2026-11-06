@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2833-count-zero-request-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2833-count-zero-request-servers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2846-robot-collisions](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2833-count-zero-request-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2892-check-if-array-is-good) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2833-count-zero-request-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -2208,6 +2211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2833-count-zero-request-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2833-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
