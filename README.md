@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2012-process-tasks-using-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2012-process-tasks-using-servers) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1878,6 +1879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2012-process-tasks-using-servers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2012-process-tasks-using-servers) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
