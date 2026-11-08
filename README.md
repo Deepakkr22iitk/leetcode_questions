@@ -2631,6 +2631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [1380-number-of-closed-islands](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
