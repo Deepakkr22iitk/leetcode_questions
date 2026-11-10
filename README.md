@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4005-maximum-total-subarray-value-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4041-climbing-stairs-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4041-climbing-stairs-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4045-longest-balanced-subarray-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
@@ -2108,6 +2109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3964-number-of-zigzag-arrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3981-jump-game-ix](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4041-climbing-stairs-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4041-climbing-stairs-ii) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4205-minimum-xor-path-in-a-grid) |
