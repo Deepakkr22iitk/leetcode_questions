@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3334-apple-redistribution-into-boxes) |
@@ -2084,6 +2086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
