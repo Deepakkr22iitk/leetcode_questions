@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3617-find-the-original-typed-string-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -1636,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -1722,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3561-remove-methods-from-project) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
