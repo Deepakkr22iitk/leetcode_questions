@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1539,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
@@ -2251,6 +2253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -2426,6 +2429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -2565,6 +2569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
