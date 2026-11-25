@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4074-count-subarrays-with-majority-element-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -2457,6 +2460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Deepakkr22iitk/leetcode_daily/tree/master/0214-shortest-palindrome) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -2475,6 +2479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -2719,4 +2724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
