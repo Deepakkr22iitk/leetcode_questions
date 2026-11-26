@@ -1190,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3625-stone-removal-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1536,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3625-stone-removal-game](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
