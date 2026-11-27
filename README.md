@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1117,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -2115,6 +2117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3831-find-x-value-of-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
