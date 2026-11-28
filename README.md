@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3763-separate-squares-i) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3721-count-mentions-per-user](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3721-count-mentions-per-user) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3819-count-covered-buildings) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3742-maximum-number-of-items-from-sale-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1934,6 +1937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3678-design-task-manager) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3745-maximum-number-of-items-from-sale-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3745-maximum-number-of-items-from-sale-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/Deepakkr22iitk/leetcode_questions/tree/master/3863-power-grid-maintenance) |
